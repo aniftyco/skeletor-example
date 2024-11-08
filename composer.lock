@@ -5619,12 +5619,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/aniftyco/skeletor.git",
-                "reference": "5166329609959d9076e36e6f9171db747c850df1"
+                "reference": "2b3c99df9d9bf5109b73028db32d33e6a7deb060"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/aniftyco/skeletor/zipball/5166329609959d9076e36e6f9171db747c850df1",
-                "reference": "5166329609959d9076e36e6f9171db747c850df1",
+                "url": "https://api.github.com/repos/aniftyco/skeletor/zipball/2b3c99df9d9bf5109b73028db32d33e6a7deb060",
+                "reference": "2b3c99df9d9bf5109b73028db32d33e6a7deb060",
                 "shasum": ""
             },
             "require": {
@@ -5632,6 +5632,7 @@
                 "php": "^8.1"
             },
             "require-dev": {
+                "composer/composer": "^2.8",
                 "pestphp/pest": "^3.5"
             },
             "default-branch": true,
@@ -5666,7 +5667,7 @@
                 "issues": "https://github.com/aniftyco/skeletor/issues",
                 "source": "https://github.com/aniftyco/skeletor/tree/master"
             },
-            "time": "2024-11-08T05:10:55+00:00"
+            "time": "2024-11-08T05:25:13+00:00"
         },
         {
             "name": "fakerphp/faker",
