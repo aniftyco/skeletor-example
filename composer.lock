@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "d776890300bd53cda4a1722cb1bbdcbf",
+    "content-hash": "ea6245dae8ee1fcc4d10e16e35e2b161",
     "packages": [
         {
             "name": "brick/math",
@@ -5619,12 +5619,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/aniftyco/skeletor.git",
-                "reference": "9378108db884d0ba279410ba61baeb15dec1bd35"
+                "reference": "5166329609959d9076e36e6f9171db747c850df1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/aniftyco/skeletor/zipball/9378108db884d0ba279410ba61baeb15dec1bd35",
-                "reference": "9378108db884d0ba279410ba61baeb15dec1bd35",
+                "url": "https://api.github.com/repos/aniftyco/skeletor/zipball/5166329609959d9076e36e6f9171db747c850df1",
+                "reference": "5166329609959d9076e36e6f9171db747c850df1",
                 "shasum": ""
             },
             "require": {
@@ -5666,7 +5666,7 @@
                 "issues": "https://github.com/aniftyco/skeletor/issues",
                 "source": "https://github.com/aniftyco/skeletor/tree/master"
             },
-            "time": "2024-11-08T04:09:47+00:00"
+            "time": "2024-11-08T05:10:55+00:00"
         },
         {
             "name": "fakerphp/faker",
